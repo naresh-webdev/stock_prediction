@@ -1,3 +1,4 @@
+python -m pip install --upgrade pip
 streamlit
 pandas
 matplotlib
@@ -6,4 +7,3 @@ datetime
 yfinance
 keras
 tesorflow
-pip23.0.3
