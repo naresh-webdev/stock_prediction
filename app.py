@@ -97,6 +97,11 @@ st.pyplot(fig2)
 
 
 
+
 # # own customisation
 # print(len(y_predicted))
 # print(len(y_test))
+if y_predicted[-1] > y_predicted[-2]:
+  st.subheader('THE STOCK MAY GO UP  💹')
+else:
+  st.subheader('THE STOCK MAY GO DOWN 📈')

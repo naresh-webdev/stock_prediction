@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+pandas_datareader
+datetime
+yfinance
+keras
+tesorflow
