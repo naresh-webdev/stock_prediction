@@ -6,3 +6,4 @@ datetime
 yfinance
 keras
 tesorflow
+pip23.0.3
