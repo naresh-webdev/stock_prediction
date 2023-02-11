@@ -1,4 +1,4 @@
-python -m pip install --upgrade pip
+
 streamlit
 pandas
 matplotlib
@@ -6,4 +6,3 @@ pandas_datareader
 datetime
 yfinance
 keras
-tesorflow
