@@ -1,9 +1,10 @@
+streamlit==0.75.0
 keras==2.11.0
 matplotlib==3.6.3
 numpy==1.24.2
 pandas==1.5.3
 pandas_datareader==0.10.0
 scikit_learn==1.2.1
-streamlit==1.18.1
+# streamlit==1.18.1
 yfinance==0.2.11
 tesorflow==2.11.0
