@@ -7,4 +7,4 @@ pandas_datareader==0.10.0
 scikit_learn==1.2.1
 # streamlit==1.18.1
 yfinance==0.2.11
-tesorflow==2.11.0
+tesorflow
